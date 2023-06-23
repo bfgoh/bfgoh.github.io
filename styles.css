@@ -1,0 +1,47 @@
+html{
+    font-size: 13px
+}
+.title-period .title{
+display: inline;
+
+}
+.title-period .period{
+    display: inline;
+    float:right;
+}
+h1 {
+    margin: 0px;
+    padding: 0px;
+    border:0px
+
+}
+h2 {
+    margin: 0px;
+    padding: 0px;
+    border:0px
+
+}
+h3 {
+    margin: 0px;
+    padding: 0px;
+    border:0px
+
+}
+hr{
+
+margin: 0px;
+border-top: 1.5px solid black
+}
+
+
+.company-experience h4{
+
+        margin: 0px;
+        padding: 0px;
+        border:0px
+    
+    
+}
+.section-header {
+    page-break-inside: avoid;
+}
